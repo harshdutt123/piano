@@ -28,7 +28,3 @@ Clone the project and install dependencies
 ### For Build
 
 	grunt build
-
-## License
- 
-[MIT License](http://felipefialho.mit-license.org/) © Luiz Felipe Tartarotti Fialho
